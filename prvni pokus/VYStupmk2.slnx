@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="piskvarky/piskvarky.csproj" />
+  <Project Path="sibenice/sibenice.csproj" />
+  <Project Path="VYStupmk2/papousek.csproj" />
+</Solution>
